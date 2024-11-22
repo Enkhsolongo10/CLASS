@@ -94,10 +94,10 @@ function filterWithObj(currentValue, index, originalArray) {
     if(arrayObject.price === "990$") {
         return arrayObject.price;
     };
-};
-const newArray5 = arrayObject.filter(filterWithObj);
+}
 // console.log(newArray5);
-
+const newArray100 = arrayObject.filter(filterWithObj);
+console.log(newArray100);
 
 
 
