@@ -34,7 +34,7 @@ let arrayWithObj = [
     {name:"бялуу", price:"5000"},
     {name:"сүү", price:"4500"},
     {name:"тараг", price:"7000"},
-    {name:"ундаа", price:"5000"},
+   
 ];
 //function-1
 function mapWithObj1(currentValue, index, originalArray) {
